@@ -1,0 +1,16 @@
+name: MainAdminCommands
+version: '1.17.1'
+main: main.main.Main
+api-version: 1.17
+authors: [ Ilias, Lugolo, Abeli ]
+description: Admin commands.
+
+commands:
+
+  vanish:
+    description: This command will make you vanish
+    usage: (AUTHORIZED PEOPLE ONLY)
+
+  fly:
+    description: This command lets you fly
+    usage: (AUTHORIZED PEOPLE ONLY)
