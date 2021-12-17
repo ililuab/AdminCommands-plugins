@@ -1,3 +1,3 @@
-# ScrumCraft-plugins
+# Admin-plugins
 
 Plugins voor ScrumCraft Project
